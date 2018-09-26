@@ -1,5 +1,5 @@
 name:
-   first: Anhad
-   last: Mohananey
-email: anhad@nyu.edu
-leaderboard: Baseline
+   first: Pramit
+   last: Mallick
+email: pm2758@nyu.edu
+leaderboard: PDawg
